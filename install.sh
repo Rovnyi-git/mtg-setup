@@ -83,7 +83,7 @@ echo "tg://proxy?server=${SERVER_IP}&port=${PUBLIC_PORT}&secret=${SECRET_B64}"
 echo "======================================================="
 EOF
 
-chmod +x /usr/local/bin/mtg-link
+chmod +x /usr/local/bin/mtg-link 
 
 echo "Прокси запущен."
 echo "mtg-link — показать ссылки"
