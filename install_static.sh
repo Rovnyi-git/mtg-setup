@@ -16,7 +16,7 @@ fi
 echo "Обнаружен IP сервера: ${SERVER_IP}"
 
 # ====== ИНТЕРАКТИВНЫЙ ВЫБОР ПОРТА ======
-read -p "Введи внешний порт для MTG [3128]: " PUBLIC_PORT
+read -p "Введи внешний порт для MTG [По умолчанию: 3128]: " PUBLIC_PORT
 PUBLIC_PORT=${PUBLIC_PORT:-3128}
 
 CFG_DIR="/etc/mtg"
