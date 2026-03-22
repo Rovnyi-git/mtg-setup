@@ -86,4 +86,4 @@ EOF
 chmod +x /usr/local/bin/mtg-link 
 
 echo "Прокси запущен."
-echo "mtg-link — показать ссылки"
+mtg-link
