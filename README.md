@@ -9,6 +9,6 @@
 
 Изначальный гайд размещен на платформе Reddit и данный репозиторий является ничем иным как сохранение фаилов автоматизации. 
 
-Гайд:https://www.reddit.com/r/KonstructorskoeByro_R/comments/1r57ybi/гайд_по_развертыванию_mtproto_на_своем_сервере/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+Гайд: https://www.reddit.com/r/KonstructorskoeByro_R/comments/1s0jya7/гайд_по_развертыванию_mtproto_на_своем_сервере_v2/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 
 Его копия в Telegram(удобнее для копиравания):https://t.me/konstrykt_byro_Rovnyi/39
